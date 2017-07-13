@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'd9r08h0l268qa4',
         'USER': 'nsyggxknumhous',
         'PASSWORD': '1001fe9793831b84b82c6046fe2313a1e8aa7b68e2c1c32cbf9401cab471ac64',
-        'HOST': 'ec2-23-21-96-159.compute-1.amazonaws.com',
+        'HOST': 'postgres://nsyggxknumhous:1001fe9793831b84b82c6046fe2313a1e8aa7b68e2c1c32cbf9401cab471ac64@ec2-23-21-96-159.compute-1.amazonaws.com:5432/d9r08h0l268qa4',
         'PORT': '5432',
     }
 }
